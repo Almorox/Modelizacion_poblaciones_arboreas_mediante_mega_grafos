@@ -10,4 +10,4 @@ Este repositorio forma parte de mi trabajo de fin de grado (biotecnología, itin
         • calcular el camino mínimo entre dos nodos del grafo (elegidos por el usuario) y generar un archivo con la secuencia de cada nodo georreferenciado y con                 la información necesaria para que QGIS pueda representar el camino sobre el mapa. 
 - El script "Representacion_grafo_especies_R.r" permite obtener diversa información sobre la importancia de cada nodo en el grafo o en su comunidad de Louvain. La "importancia" de un nodo se estudia en base a su grado (número de vecinos) o su centralidad (betweeness). Permite también la representación gráfica de esta red no espacial de manera que sea informativa sobre las comunidades de Louvain calculadas (se distinguen por colores).  
 
-Se incluyen también ejemplos de los archivos de entrada y de salida para los tres primeros scripts, generados en la modelización de datos de la REDIAM (Red de Información Ambiental de Andalucía), en concreto sobre la población de Sierra Morena andaluza y Sierra Nevada.
+
